@@ -3,13 +3,13 @@
 ## Presentation PDF
 <object data="https://github.com/lisu1222/loan/blob/master/Project%20Presentation.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/lisu1222/propensity-models/blob/master/Presentation%20for%20Conde%20Nast.pdf">
-        <p>This browser does not support PDFs. Please view at: <a href="https://github.com/lisu1222/loan/blob/master/Project%20Presentation.pdf"> View PDF</a>.</p>
+        <p> Please view the presentaion at: <a href="https://github.com/lisu1222/loan/blob/master/Project%20Presentation.pdf"> View PDF</a>.</p>
     </embed>
 </object>
 
 ## Project Report
 <object data="https://github.com/lisu1222/loan/blob/master/Project%20Report.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://https://github.com/lisu1222/loan/blob/master/Project%20Report.pdf">
-        <p>This browser does not support PDFs. Please view at: <a href="https://github.com/lisu1222/propensity-models/blob/master/Presentation%20for%20Conde%20Nast.pdf">View PDF</a>.</p>
+        <p> Please view the project report at: <a href="https://github.com/lisu1222/propensity-models/blob/master/Presentation%20for%20Conde%20Nast.pdf">View PDF</a>.</p>
     </embed>
 </object>
